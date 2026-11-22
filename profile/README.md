@@ -6,7 +6,7 @@
 
 AYDO Works menyimpan proyek freelance dan pesanan klien, terpisah dari proyek pribadi di **[AYDO Projects](https://github.com/AYDO-Projects)**. Pemisahan ini menjaga kepemilikan kode tetap jelas: setiap repository di sini dibuat untuk klien tertentu dan diserahkan kepada mereka.
 
-[Pendekatan](#pendekatan) · [Alur kerja](#alur-kerja) · [Penamaan](#penamaan) · [Prinsip](#prinsip) · [Kontak](#kontak)
+[Pendekatan](#pendekatan) · [Alur kerja](#alur-kerja) · [Penamaan](#penamaan) · [Prinsip](#prinsip)
 
 ## Pendekatan
 
@@ -46,18 +46,6 @@ Proyek lama yang sudah diserahkan tetap memakai nama aslinya.
 - **Lingkup yang disepakati.** Pekerjaan dimulai dari kebutuhan yang jelas dan disetujui bersama.
 - **Dapat dilanjutkan.** Setiap proyek dapat dijalankan kembali dari repository dan template Docker yang sama.
 - **Serah terima yang rapi.** Kode, data contoh, dan cara menjalankan proyek terdokumentasi saat diserahkan.
-
-## Kontak
-
-Dikelola oleh **Adi Yudhanegara**.
-
-| Kanal | Alamat |
-| :--- | :--- |
-| Email | [adi.yudhanegaradona@gmail.com](mailto:adi.yudhanegaradona@gmail.com) |
-| WhatsApp | [+62 896-5104-6251](https://wa.me/6289651046251) |
-| LinkedIn | [linkedin.com/in/adiyudhanegara](https://www.linkedin.com/in/adiyudhanegara) |
-| Instagram | [@adiyudhanegara](https://www.instagram.com/adiyudhanegara) |
-| Facebook | [facebook.com/adiyudhanegara](https://www.facebook.com/adiyudhanegara) |
 
 ---
 

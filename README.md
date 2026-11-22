@@ -2,7 +2,7 @@
 
 [profile/README.md](profile/README.md) introduces the organization on its public
 GitHub Overview. The profile describes our purpose, workflow, repository naming,
-working principles, and contact details.
+and working principles.
 
 ## Contents
 
