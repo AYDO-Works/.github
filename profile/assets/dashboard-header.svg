@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">AYDO Works — Listen. Build. Hand over.</title>
+  <desc id="desc">A dark plum workspace banner with a four-stage path: brief, build, review, handover.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#3a2d3a" stroke-width="0.7"/>
+    </pattern>
+    <linearGradient id="shade" x1="0" x2="1">
+      <stop stop-color="#191219"/>
+      <stop offset="1" stop-color="#261b26"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="12" fill="url(#shade)"/>
+  <rect x="700" width="580" height="320" fill="url(#grid)" opacity="0.65"/>
+  <path d="M24 24H1256V296H24Z" fill="none" stroke="#483a48"/>
+  <path d="M24 64V24H64M1216 296H1256V256" fill="none" stroke="#d49ac8" stroke-width="2"/>
+  <g font-family="'Segoe UI',Helvetica,sans-serif">
+    <rect x="56" y="58" width="8" height="8" fill="#d49ac8"/>
+    <text x="78" y="67" font-size="13" font-weight="600" letter-spacing="2.5" fill="#d49ac8">AYDO WORKS / CLIENT PROJECTS</text>
+    <text x="55" y="141" font-size="51" font-weight="650" letter-spacing="-1.8" fill="#f5edf3">Listen. Build.</text>
+    <text x="55" y="199" font-size="51" font-weight="650" letter-spacing="-1.8" fill="#d49ac8">Hand over.</text>
+    <text x="58" y="252" font-size="16" fill="#bfaabb">Freelance web applications and sites, built to each client's brief.</text>
+  </g>
+  <g fill="none" stroke="#86607e" stroke-width="2">
+    <path d="M746 120H916Q936 120 936 140V180Q936 200 956 200H1140"/>
+    <path d="M1140 219V247H746V139" stroke-dasharray="4 6" opacity="0.6"/>
+  </g>
+  <g font-family="'Segoe UI',Helvetica,sans-serif" font-size="12" letter-spacing="1.2" text-anchor="middle">
+    <g transform="translate(746 120)">
+      <rect x="-19" y="-19" width="38" height="38" rx="8" fill="#352535" stroke="#d49ac8"/>
+      <text y="5" font-size="14" fill="#f0d8ea">01</text>
+      <text y="-39" fill="#c9b3c4">BRIEF</text>
+    </g>
+    <g transform="translate(874 120)">
+      <rect x="-19" y="-19" width="38" height="38" rx="8" fill="#352535" stroke="#d49ac8"/>
+      <text y="5" font-size="14" fill="#f0d8ea">02</text>
+      <text y="-39" fill="#c9b3c4">BUILD</text>
+    </g>
+    <g transform="translate(1012 200)">
+      <rect x="-19" y="-19" width="38" height="38" rx="8" fill="#352535" stroke="#d49ac8"/>
+      <text y="5" font-size="14" fill="#f0d8ea">03</text>
+      <text y="-39" fill="#c9b3c4">REVIEW</text>
+    </g>
+    <g transform="translate(1140 200)">
+      <rect x="-19" y="-19" width="38" height="38" rx="8" fill="#d49ac8"/>
+      <path d="m-7 0 5 5 10-11" fill="none" stroke="#2a1027" stroke-width="2.5"/>
+      <text y="-39" fill="#f0d8ea">HANDOVER</text>
+    </g>
+  </g>
+</svg>
